@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ueqvlm.planetjp.online/sitemap.xml
